@@ -1,6 +1,14 @@
 title: Sravan Varala
 logo: /assets/img/sk.png
 description: Optimist with strong interest in exploring solutions and adding skills.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sravan-varala/">LinkedIn</a> |
+  <a href="https://github.com/varalasravan">GitHub</a>
+
+  </p>
+
+
+
 theme: jekyll-theme-minimal
