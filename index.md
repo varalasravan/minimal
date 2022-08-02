@@ -1,4 +1,4 @@
-[LinkedIn](./https://www.linkedin.com/in/sravan-varala).
+[LinkedIn](./http://www.linkedin.com/in/sravan-varala).
 
 
 # Experience
