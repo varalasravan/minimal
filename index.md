@@ -1,5 +1,3 @@
-[LinkedIn](./https://www.linkedin.com/in/sravan-varala).
-
 
 # Experience
 
